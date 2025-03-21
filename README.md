@@ -2,7 +2,7 @@
 
 ! API работает нестабильно, поэтому приложение временами может  
 не работать.
-[ссылка на проект](https://condor-r.github.io/tasklist/)
+[ссылка на проект](https://condor-r.github.io/currency_exchange/)
 
 # Цель проекта
 
